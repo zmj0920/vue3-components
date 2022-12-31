@@ -1,9 +1,10 @@
 <template>
     <div>
-        <Button />
+        <!-- <Button /> -->
+        <k-button>默认按钮</k-button>
     </div>
 </template>
 
-<script lang="ts" setup>
+<!-- <script lang="ts" setup>
 import { Button } from 'vue-view-ui'
-</script>
+</script> -->

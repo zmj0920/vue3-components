@@ -8,7 +8,7 @@
 </template>
 <script lang="ts">
 
-import './style/index.less'
+import './style/index.scss'
 import { defineComponent, computed, onMounted } from 'vue'
 import { iconProps } from './types'
 export default defineComponent({
